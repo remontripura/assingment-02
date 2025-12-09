@@ -1,6 +1,6 @@
 ### Project Name & Live URL.
 Vehicle Rental System
-Live Url: [Click Here](https://assingment-amber.vercel.app)
+Live Url: [https://assingment-amber.vercel.app](https://assingment-amber.vercel.app)
 
 ### Technology Stack
 1. Express
