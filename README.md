@@ -12,8 +12,8 @@ Live Url: [https://assingment-amber.vercel.app](https://assingment-amber.vercel.
 
 ### module pattern
 1. user can registration and login.
-   signup api - https://assingment-amber.vercel.app/api/v1/auth/signup
-   login api - https://assingment-amber.vercel.app/api/v1/auth/signin
+   signup api - https://assingment-amber.vercel.app/api/v1/auth/signup_
+   login api - https://assingment-amber.vercel.app/api/v1/auth/signin_
    
 3. admin can vehicle get, edit, update and delete and user can get all vehicle data
     vehicle post api(admin) - https://assingment-amber.vercel.app/api/v1/vehicles
